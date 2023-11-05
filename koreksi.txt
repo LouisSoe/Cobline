@@ -1,0 +1,7 @@
+C-Vote 
+pengurangan height topbar index(vito)
+card paslon (vito)
+penambahan tombol logout index (louis)
+print laporan menggunakan table 
+mengubah input no kandidat menjadi text
+
